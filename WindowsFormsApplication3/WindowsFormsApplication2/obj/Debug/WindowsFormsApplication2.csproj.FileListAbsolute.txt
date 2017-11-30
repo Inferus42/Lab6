@@ -1,0 +1,110 @@
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\inferus\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\INFERUS\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#03-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ольга\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#04-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\Новая папка\Новая папка (2)\Учеба\Лабы\2 курс 3 семестр\Технологии программирования\ИСТ115-ТП-#05-Ростовцев\WindowsFormsApplication3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
